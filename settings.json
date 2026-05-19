@@ -1,0 +1,44 @@
+{
+  "scheduledTasks": [],
+  "scheduledTaskSessionIgnores": [],
+  "sessionDirectoryCache": {
+    "version": 1,
+    "lastSyncedUpdatedAt": 1779201231238,
+    "directories": [
+      {
+        "worktree": "D:\\",
+        "lastUpdated": 1779201231238
+      },
+      {
+        "worktree": "C:\\Users\\denk0",
+        "lastUpdated": 1779192984061
+      },
+      {
+        "worktree": "D:\\OpenCode",
+        "lastUpdated": 1779192768612
+      },
+      {
+        "worktree": "C:\\Users\\denk0\\Desktop",
+        "lastUpdated": 1779186390959
+      }
+    ]
+  },
+  "currentProject": {
+    "id": "global",
+    "worktree": "/",
+    "name": "/"
+  },
+  "currentSession": {
+    "id": "ses_1c0f903bfffeW7QGIuE5XcksFO",
+    "title": "Список проектов на ПК с описанием",
+    "directory": "D:\\",
+    "projectID": "global"
+  },
+  "pinnedMessageId": 129,
+  "currentAgent": "build",
+  "currentModel": {
+    "providerID": "opencode",
+    "modelID": "big-pickle",
+    "variant": "default"
+  }
+}
